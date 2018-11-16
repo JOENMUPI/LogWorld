@@ -1,0 +1,12 @@
+
+2018-11-9 1:52:44.00jose:[192.168.1.112] [Connection] [info]Login: the User joseAlready logged
+2018-11-9 1:52:52.00jose:[192.168.1.112] [Connection] [info]Login: the User joseAlready logged
+2018-11-9 1:53:16.00marteco:[192.168.1.112] [Connection] [info]Register:the User marteco are regitrated
+2018-11-9 1:53:16.00marteco:[192.168.1.112] [Connection] [info]Register: login the User marteco
+2018-11-9 1:53:18.00marteco:[192.168.1.112] [Connection] [info]logout:the User marteco is logout
+2018-11-9 1:53:21.00marteco:[192.168.1.112] [Connection] [info]Login: login the User marteco
+2018-11-9 1:53:23.00marteco:[192.168.1.112] [Connection] [info]logout:the User marteco is logout
+2018-11-9 1:54:18.00marteco:[192.168.1.112] [Connection] [info]Login: login the User marteco
+2018-11-9 1:54:20.00marteco:[192.168.1.112] [Connection] [info]logout:the User marteco is logout
+2018-11-9 1:54:22.00marteco:[192.168.1.112] [Connection] [info]Login: login the User marteco
+2018-11-9 1:54:23.00marteco:[192.168.1.112] [Connection] [info]logout:the User marteco is logout

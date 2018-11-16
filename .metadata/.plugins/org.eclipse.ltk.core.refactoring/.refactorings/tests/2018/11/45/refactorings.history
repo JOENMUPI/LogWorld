@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;SimpleService.java&apos; to &apos;Client1/src/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;tests&apos;&#x0D;&#x0A;- Destination element: &apos;Client1/src/(default package)&apos;&#x0D;&#x0A;- Original element: &apos;kuku.SimpleService.java&apos;" description="Copy compilation unit" destination="=Client1/src&lt;" element1="/src&lt;kuku{SimpleService.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1541732786412" units="1" version="1.0"/>
+</session>

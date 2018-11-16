@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="LogWorld.WebS3Proxy"/>
+<fullyQualifiedTypeName name="LogWorld.WebS3"/>
+<fullyQualifiedTypeName name="LogWorld.WebS5"/>
+<fullyQualifiedTypeName name="LogWorld.WebS5Proxy"/>
+<fullyQualifiedTypeName name="com.oracle.webservices.internal.api.EnvelopeStyle.Style"/>
+<fullyQualifiedTypeName name="javax.xml.messaging.Endpoint"/>
+<fullyQualifiedTypeName name="javax.websocket.Endpoint"/>
+<fullyQualifiedTypeName name="javax.jws.soap.SOAPBinding"/>
+<fullyQualifiedTypeName name="javax.jws.WebMethod"/>
+<fullyQualifiedTypeName name="javax.jws.soap.SOAPBinding.Style"/>
+<fullyQualifiedTypeName name="javax.jws.WebService"/>
+<fullyQualifiedTypeName name="javax.xml.ws.Endpoint"/>
+<fullyQualifiedTypeName name="java.net.URL"/>
+<fullyQualifiedTypeName name="javax.xml.namespace.QName"/>
+<fullyQualifiedTypeName name="java.security.Provider.Service"/>
+<fullyQualifiedTypeName name="javax.wsdl.Service"/>
+<fullyQualifiedTypeName name="javax.xml.ws.Service"/>
+</qualifiedTypeNameHistroy>

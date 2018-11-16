@@ -1,0 +1,10 @@
+package kuku;
+
+import javax.jws.WebService;
+
+@WebService(endpointInterface="simple.SimpleService")
+public class SimpleServiceImpl implements SimpleService {
+   public String sayHello() {
+      return "Hello from Web Services!";
+   }
+}

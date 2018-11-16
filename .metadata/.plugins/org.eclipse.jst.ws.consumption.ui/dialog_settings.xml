@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.jst.ws.client.type.java">
+		<item value="/S50/WebContent/wsdl/WebS5.wsdl"/>
+		<item value="/S23/WebContent/wsdl/WebS3.wsdl"/>
+		<item value="/S23/WebContent/wsdl/WebS2.wsdl"/>
+		<item value="/LogWorld/WebContent/wsdl/WebS.wsdl"/>
+	</list>
+</section>

@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\jose mundo\eclipse-LogWorld\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4179293407.index
+1435236292.index
+3142144691.index
+2805846858.index
+516711020.index
+2078043352.index
+3107484265.index
